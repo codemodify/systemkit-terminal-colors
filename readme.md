@@ -87,4 +87,4 @@ func main() {
 ```
 
 ![](https://raw.githubusercontent.com/codemodify/systemkit-terminal-colors/master/.helper-files/dox/colors-unix.gif)
-![](https://raw.githubusercontent.com/codemodify/systemkit-terminal-colors/master/.helper-files/dox/colors-windows.gif)
+![](https://raw.githubusercontent.com/codemodify/systemkit-terminal-colors/master/.helper-files/dox/colors-windows.png)
